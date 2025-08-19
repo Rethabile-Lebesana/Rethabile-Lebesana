@@ -19,8 +19,9 @@ I build community-driven platforms, business solutions, and creative designs tha
 ### 🌍 Public Repos  
   
 📂 [**Community Reporting Prototype with PHP Auth**](#) – Mock version of HoodLink: user registration/login with security questions using MySQL, issue reporting, notices, and directory.
+
 📂 [**Stock Taking App Demo**](#) – Android/tablet app for inventory management with supervisor login, reports, and low-stock alerts. (A work in progress)
-📂 [**Design Portfolio**](#) – Creative works: logos, flyers, posters, banners.  
+**More projects coming soon...**
 
 ---
 
@@ -33,7 +34,21 @@ I build community-driven platforms, business solutions, and creative designs tha
 
 ---
 
-## 📊 GitHub Activity  
+## 📊 GitHub Activity
+<p align="center">
+  <!-- GitHub Stats -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=SpadeKeam&show_icons=true&theme=tokyonight&title_color=40E0D0&icon_color=40E0D0&text_color=FFFFFF&bg_color=0D1117" 
+       alt="Spade's GitHub Stats" 
+       height="180" />
+  
+  <!-- Most Used Languages -->
+  <img 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpadeKeam&layout=compact&langs_count=8&theme=tokyonight&title_color=40E0D0&text_color=FFFFFF&bg_color=0D1117" 
+       alt="Top Languages" 
+       height="180" />
+</p>
+
 ![Rethabile Lebesana’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Rethabile-Lebesana&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile-Lebesana&layout=compact&theme=radical)  
 
