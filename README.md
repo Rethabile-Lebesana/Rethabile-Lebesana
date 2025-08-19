@@ -35,22 +35,8 @@ I build community-driven platforms, business solutions, and creative designs tha
 ---
 
 ## 📊 GitHub Activity
-<p align="center">
-  <!-- GitHub Stats -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=Rethabile-Lebesana&show_icons=true&theme=tokyonight&title_color=40E0D0&icon_color=40E0D0&text_color=FFFFFF&bg_color=0D1117" 
-       alt="Rethabile Lebesana's GitHub Stats" 
-       height="180" />
-  
-  <!-- Most Used Languages -->
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile-Lebesana&layout=compact&langs_count=8&theme=tokyonight&title_color=40E0D0&text_color=FFFFFF&bg_color=0D1117" 
-       alt="Top Languages" 
-       height="180" />
-</p>
-
-![Rethabile Lebesana’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Rethabile-Lebesana&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile-Lebesana&layout=compact&theme=radical)  
+![Rethabile Lebesana’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Rethabile-Lebesana&show_icons=true&theme=tokyonight&title_color=40E0D0&icon_color=40E0D0&text_color=FFFFFF&bg_color=0D1117)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rethabile-Lebesana&layout=compact&theme=tokyonight&title_color=40E0D0&text_color=FFFFFF&bg_color=0D1117)  
 
 ---
 
