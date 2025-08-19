@@ -21,6 +21,7 @@ I build community-driven platforms, business solutions, and creative designs tha
 📂 [**Community Reporting Prototype with PHP Auth**](#) – Mock version of HoodLink: user registration/login with security questions using MySQL, issue reporting, notices, and directory.
 
 📂 [**Stock Taking App Demo**](#) – Android/tablet app for inventory management with supervisor login, reports, and low-stock alerts. (A work in progress)
+
 **More projects coming soon...**
 
 ---
