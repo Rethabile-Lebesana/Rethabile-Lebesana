@@ -27,7 +27,6 @@ I build community-driven platforms, business solutions, and creative designs tha
 ---
 
 ### 🔒 Private/Client Work (Summaries)  
-
 - **HoodLink Platform** – Community engagement system with user registration, notices, schedules, and directory management.  
 - **Batho Pele Kasi Soccer Tournament Website** – Event hub for soccer tournaments, including sponsorships and donation integrations (Ozow Paygate).  
 - **Keam Projexts (Design Services)** – Business branding: logos, flyers, banners, posters, and welcome boards.  
