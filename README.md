@@ -6,10 +6,10 @@ I build community-driven platforms, business solutions, and creative designs tha
 ---
 
 ## 🛠️ Skills & Tools  
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind  
+- **Frontend**: HTML, CSS, JavaScript, React, Bootstrap, Tailwind  
 - **Backend**: PHP, MySQL (phpMyAdmin), JAVA  
 - **Databases**: MySQL 
-- **Other**: Git, GitHub, XAMPP, REST APIs  
+- **Other**: Git, GitHub, XAMPP, REST APIs, Vite  
 - **Design**: Canva  
 
 ---
