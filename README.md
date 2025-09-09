@@ -10,7 +10,6 @@ I build community-driven platforms, business solutions, and creative designs tha
 - **Backend**: PHP, MySQL (phpMyAdmin), JAVA  
 - **Databases**: MySQL 
 - **Other**: Git, GitHub, XAMPP, REST APIs, Vite  
-- **Design**: Canva  
 
 ---
 
