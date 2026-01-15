@@ -27,8 +27,9 @@ I build community-driven platforms, business solutions, and creative designs tha
 
 ### 🔒 Private/Client Work (Summaries)  
 - **HoodLink Platform** – Community engagement system with user registration, notices, schedules, and directory management.  
-- **Batho Pele Kasi Soccer Tournament Website** – Event hub for soccer tournaments, including sponsorships and donation integrations (Ozow Paygate).  
-- **Keam Projexts (Design Services)** – Business branding: logos, flyers, banners, posters, and welcome boards.  
+- **Batho Pele Kasi Soccer Tournament Website** – Event hub for soccer tournaments.
+- **Amani-Anvitek Group Website** – Client-facing corporate website built with emphasis on responsive layout, content clarity, and maintainable structure aligned with formal business requirements.
+- **KeamPro Website** – A production-ready business website built to represent a multi-service digital agency. The project focuses on clean UI structure, responsive layout, SEO-conscious markup, and maintainable front-end architecture, designed for real client acquisition rather than demo purposes.  
 
 *(Private repos – available on request for review.)*  
 
@@ -41,7 +42,6 @@ I build community-driven platforms, business solutions, and creative designs tha
 ---
 
 ## 📫 Let’s Connect  
-- 🌐 Portfolio: **coming soon...**
 - ✉️ Email: rrlebesana@gmail.com  
 
 
